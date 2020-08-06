@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 # hi. friends
 
-<img align='right' src='https://raw.githubusercontent.com/marionxue/yeaheo/master/img/github_wall.gif' width='200'>
+<img align='right' src='https://raw.githubusercontent.com/yeaheo/master/img/github_wall.gif' width='200'>
 
 ![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=yeaheo&show_icons=true&theme=radical)
