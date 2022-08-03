@@ -1,1 +1,1 @@
-## Always curious, always improving
+## Always curious, Always improving
