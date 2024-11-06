@@ -2,7 +2,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        RUNNING IN MY LOVE
+        · RUNNING IN MY LOVE ·
       </h1>
     </summary>
   </ul>
