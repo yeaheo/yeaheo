@@ -1,5 +1,5 @@
 <div id="toc">
-  <ul align="center" style="weight: 1000px;color: blue;">
+  <ul align="center" style="weight: 1000px;color:SlateBlue;">
     <summary>
       <h1>
         · RUNNING IN MY LOVE ·
