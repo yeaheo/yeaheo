@@ -19,6 +19,3 @@
 <p align="left">
   <img width="48%" src="https://streak-stats.demolab.com/?user=yeaheo&theme=default&hide_border=false&border_radius=4.5&date_format=M+j%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200" alt="GitHub streak Card" />
 </p>
-![yeaheo's Stats](https://github-readme-stats.vercel.app/api?username=yeaheo&theme=default&show_icons=true&hide_border=false&count_private=true)
-![yeaheo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yeaheo&theme=default&hide_border=false)
-![yeaheo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeaheo&theme=default&show_icons=true&hide_border=false&layout=compact)
